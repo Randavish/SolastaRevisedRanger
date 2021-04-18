@@ -1,0 +1,12 @@
+{
+	"Id": "SolastaRevisedRanger",
+	"DisplayName": "SolastaRevisedRanger",
+	"Author": "Randavish",
+	"Version": "0.0.1",
+	"ManagerVersion": "0.23.3",
+	"Requirements": ["SolastaModApi"],
+	"AssemblyName": "SolastaRevisedRanger.dll",
+	"EntryMethod": "SolastaRevisedRanger.Main.Load",
+	"Repository": "https://raw.githubusercontent.com/Randavish/SolastaRevisedRanger/main/SolastaRevisedRanger/Repository.json",
+	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/##"
+}
